@@ -31,3 +31,5 @@ O Datasheet está disponível na pasta "Docs". Para executar o projeto vamos uti
 ## Tabela de pinagem
 
 ## Fluxograma
+
+## Código

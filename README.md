@@ -18,9 +18,13 @@ Pela complexidade do projeto e pelo pouco tempo disponível, o trabalho foi divi
 2. Comunicação com a Nuvem
 3. Rotina
 
-Neste repositório trataremos sobre a 3ª etapa. O objetivo é que por um comando de voz dado à Alexa seja possível acender um LED da placa STM32F746. O Datasheet está disponível em https://www.st.com/resource/en/datasheet/stm32f746ng.pdf.
+Neste repositório trataremos sobre a 3ª etapa. O objetivo é que por um comando de voz dado à Alexa seja possível acender um LED da placa STM32F746 que pode ser observada na imagem a seguir.
 
-Para isso vamos utilizar o periférico Ethernet que receberá o sinal do servidor da Alexa.
+<p align="center">
+  <img src = 'Docs/discovery.jpg' height=400 />
+</p>
+
+O Datasheet está disponível na pasta "Docs". Para executar o projeto vamos utilizar o periférico Ethernet que receberá o sinal do servidor da Alexa.
 
 ## Diagrama de blocos
 

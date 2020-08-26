@@ -29,7 +29,7 @@ O Datasheet está disponível na pasta "Docs". Para executar o projeto vamos uti
 ## Diagrama de blocos
 
 <p align="center">
-  <img src = 'Docs/diag de blocos.jpg' height=400 />
+  <img src = 'Docs/diag de blocos.png' height=300 />
 </p>
 
 ## Tabela de pinagem
@@ -37,15 +37,15 @@ O Datasheet está disponível na pasta "Docs". Para executar o projeto vamos uti
 A pinagem completa pode ser vista nesta [tabela](https://docs.google.com/spreadsheets/d/1Sw0a9_pRrKhN5JRSCNtv-Qpn41waan8Ut9J1HC0hoy8/edit?usp=sharing).
 
 <p align="center">
-  <img src = 'Docs/pinagem.jpg' height=400 />
+  <img src = 'Docs/pinagem.png' height=400 />
 </p>
 
 ## Fluxograma
 
 <p align="center">
-  <img src = 'Docs/fluxograma.jpg' height=400 />
+  <img src = 'Docs/fluxograma.png' height=400 />
 </p>
 
 ## Código
 
-O código pode ser visto no repositório [stm32-vs4a](https://github.com/luizrenault/stm32-vs4a) do Professor Luiz Renault.
+Uma versão do código pode ser visto no repositório [stm32-vs4a](https://github.com/luizrenault/stm32-vs4a) do Professor Luiz Renault.
